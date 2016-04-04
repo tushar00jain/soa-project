@@ -1,0 +1,161 @@
+Trust Code,Trust Type,Area Team Name,Area Team  Code,Trust Name,"April to
+June2008","July toSeptember 2008","October toDecember 2008","January toMarch2009","April toJune2009","July toSeptember 2009","October toDecember 2009","January toMarch2010","April toJune2010","July toSeptember 2010","October toDecember 2010","January toMarch2011","April toJune2011","July toSeptember2011","October toDecember 2011","January to March2012","April toJune2012","July toSeptember2012","October toDecember2012","January toMarch2013","April toJune2013","July toSeptember2013","October toDecember2013","January toMarch2014","April toJune2014","July toSeptember2014","October toDecember2014","January toMarch2015",Trust Name
+,,,,Totals, 459 , 389 , 369 , 389 , 251 , 237 , 237 , 279 , 198 , 186 , 155 , 149 , 148 , 103 , 105 , 117 , 94 , 96 , 92 , 116 , 96 , 82 , 98 , 88 , 67 , 62 , 75 , 83 ,Totals
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+REM,FT,Merseyside Area Team,Q48,Aintree University Hospital,7,5,3,4,4,6,0,2,4,0,2,0,1,0,1,2,2,2,1,2,1,0,0,2,1,0,1,0,Aintree University Hospital
+RCF,FT,West Yorkshire Area Team,Q52,Airedale,0,3,2,4,0,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Airedale
+RBS,FT,Merseyside Area Team,Q48,Alder Hey Children's,1,0,2,3,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,Alder Hey Children's
+RTK,FT,Surrey and Sussex Area Team,Q68,Ashford & St Peter's Hospitals,3,3,1,2,1,2,0,0,4,1,0,0,0,2,0,0,0,0,1,0,0,0,1,1,0,0,0,1,Ashford & St Peter's Hospitals
+RF4,--,London Area Team,Q71,"Barking, Havering & Redbridge University Hospitals",7,4,3,6,3,2,5,9,3,2,6,4,3,1,5,1,2,6,0,1,0,0,2,0,0,0,3,2,"Barking, Havering & Redbridge University Hospitals"
+RFF,FT,South Yorkshire and Bassetlaw Area Team,Q51,Barnsley Hospital,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Barnsley Hospital
+R1H,--,London Area Team,Q71,Barts Health1,12,7,8,10,6,6,6,5,5,4,3,4,6,7,3,2,5,3,2,1,3,1,3,5,5,3,2,2,Barts Health1
+RDD,FT,Essex Area Team,Q57,Basildon & Thurrock University Hospitals,3,0,6,1,0,0,2,0,1,1,0,1,1,1,1,1,0,1,0,3,1,2,0,0,0,0,5,3,Basildon & Thurrock University Hospitals
+RC1,--,Hertfordshire and The South Midlands Area Team,Q58,Bedford Hospital,0,3,1,0,0,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bedford Hospital
+RQ3,FT,Birmingham and the Black Country Area Team,Q54,Birmingham Children's Hospital,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Birmingham Children's Hospital
+RLU,FT,Birmingham and the Black Country Area Team,Q54,Birmingham Women's,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Birmingham Women's
+RXL,FT,Lancashire Area Team,Q47,Blackpool Teaching Hospitals,0,2,2,0,1,0,0,2,0,1,0,3,1,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,Blackpool Teaching Hospitals
+RMC,FT,Greater Manchester Area Team,Q46,Bolton,3,2,2,2,3,0,0,4,2,0,2,0,0,0,1,2,1,2,0,2,0,0,1,1,0,0,0,1,Bolton
+RAE,FT,West Yorkshire Area Team,Q52,Bradford Teaching Hospitals,4,2,1,2,1,2,1,1,1,0,1,1,1,0,1,0,1,2,2,0,1,0,0,2,1,0,2,1,Bradford Teaching Hospitals
+RXH,--,Surrey and Sussex Area Team,Q68,Brighton & Sussex University Hospitals,2,10,5,3,6,2,1,3,3,3,1,1,1,2,1,1,0,2,2,2,3,0,3,0,2,1,1,1,Brighton & Sussex University Hospitals
+RXQ,--,Thames Valley Area Team,Q69,Buckinghamshire Healthcare,1,2,3,0,0,2,0,1,0,2,0,0,1,0,0,1,0,0,0,0,0,0,2,0,1,1,1,0,Buckinghamshire Healthcare
+RJF,FT,Shropshire and Staffordshire Area Team,Q60,Burton Hospitals,2,2,2,0,2,3,1,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,Burton Hospitals
+RWY,FT,West Yorkshire Area Team,Q52,Calderdale & Huddersfield,3,1,0,3,1,1,3,4,2,0,2,0,1,3,1,1,1,2,0,1,1,0,1,0,0,0,1,0,Calderdale & Huddersfield
+RGT,FT,East Anglia Area Team,Q56,Cambridge University Hospitals,7,6,1,5,4,3,3,2,3,1,1,1,1,0,1,3,1,3,2,0,0,1,1,2,0,0,0,0,Cambridge University Hospitals
+RW3,FT,Greater Manchester Area Team,Q46,Central Manchester University Hospitals2,7,2,7,5,1,1,1,3,1,2,2,2,1,0,1,2,2,3,3,2,4,0,2,0,1,1,0,1,Central Manchester University Hospitals2
+RQM,FT,London Area Team,Q71,Chelsea & Westminster Hospital,1,1,0,1,1,2,4,0,2,2,2,0,0,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,Chelsea & Westminster Hospital
+RFS,FT,Derbyshire and Nottinghamshire Area Team,Q55,Chesterfield Royal Hospital,0,0,2,3,0,0,1,1,0,1,1,1,1,3,1,0,0,0,0,1,1,1,0,0,0,0,0,0,Chesterfield Royal Hospital
+RLN,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,City Hospitals Sunderland,7,4,2,4,4,3,1,3,0,3,0,0,0,1,0,0,1,2,0,3,1,2,0,1,1,1,0,1,City Hospitals Sunderland
+RDE,FT,Essex Area Team,Q57,Colchester Hospital University,1,1,1,4,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Colchester Hospital University
+RJR,FT,"Cheshire, Warrington and Wirral area Team",Q44,Countess of Chester Hospital,2,5,1,2,1,0,2,1,2,1,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0,1,Countess of Chester Hospital
+RXP,FT,"Durham, Darlington and Tees Area Team",Q45,County Durham & Darlington,7,6,4,2,1,2,1,0,0,2,1,0,1,1,0,1,0,0,1,1,0,1,0,0,2,1,0,3,County Durham & Darlington
+RJ6,--,London Area Team,Q71,Croydon Health Services,4,3,5,2,1,1,1,2,0,0,4,2,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,Croydon Health Services
+RN7,--,Kent and Medway Area Team,Q67,Dartford & Gravesham#,4,3,9,4,2,3,5,2,2,1,1,4,1,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,Dartford & Gravesham#
+RTG,FT,Derbyshire and Nottinghamshire Area Team,Q55,Derby Hospitals,2,2,1,3,2,3,4,6,3,0,0,1,1,0,0,1,1,1,0,1,1,0,1,0,0,1,0,0,Derby Hospitals
+RP5,FT,South Yorkshire and Bassetlaw Area Team,Q51,Doncaster & Bassetlaw Hospitals,1,2,1,1,1,2,2,3,1,0,0,0,1,2,0,2,1,0,1,0,0,1,1,0,0,1,0,1,Doncaster & Bassetlaw Hospitals
+RBD,FT,Wessex Area Team,Q70,Dorset County Hospital,2,1,1,2,2,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Dorset County Hospital
+RWH,--,Hertfordshire and The South Midlands Area Team,Q58,East & North Hertfordshire,6,1,1,1,1,0,3,3,1,1,2,1,1,2,0,0,1,1,0,0,1,0,0,1,0,2,2,0,East & North Hertfordshire
+RJN,--,"Cheshire, Warrington and Wirral area Team",Q44,East Cheshire,5,0,5,2,0,1,2,2,0,1,0,1,0,0,1,1,0,0,1,0,0,1,1,1,0,1,0,0,East Cheshire
+RVV,FT,Kent and Medway Area Team,Q67,East Kent Hospitals University,5,3,5,3,2,3,1,1,2,2,1,1,0,1,2,1,0,0,0,4,2,4,2,1,0,0,0,0,East Kent Hospitals University
+RXR,--,Lancashire Area Team,Q47,East Lancashire Hospitals,5,2,2,3,5,1,2,0,3,3,2,0,2,0,2,2,1,1,1,0,1,1,1,0,3,0,1,1,East Lancashire Hospitals
+RXC,--,Surrey and Sussex Area Team,Q68,East Sussex Healthcare,4,4,2,3,1,2,2,0,2,3,1,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,1,0,East Sussex Healthcare
+RVR,--,London Area Team,Q71,Epsom & St Helier University Hospitals,6,3,5,5,3,3,4,7,4,4,1,2,3,1,1,3,1,3,2,2,1,1,0,6,1,3,0,3,Epsom & St Helier University Hospitals
+RDU,FT,Surrey and Sussex Area Team,Q68,Frimley Health3,1,0,0,1,3,1,1,3,1,2,1,1,1,0,0,2,0,1,0,0,2,2,1,1,1,1,0,1,Frimley Health3
+RR7,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,Gateshead Health,5,2,3,0,1,2,3,1,2,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,Gateshead Health
+RLT,--,"Arden, Herefordshire and Worcestershire Area Team",Q53,George Eliot Hospital,2,5,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,George Eliot Hospital
+RTE,FT,"Bath, Gloucestershire, Swindon and Wiltshire Area Team",Q64,Gloucestershire Hospitals,2,2,1,3,0,2,1,3,1,1,0,0,1,0,0,2,0,1,1,0,1,0,0,0,0,0,1,1,Gloucestershire Hospitals
+RP4,FT,London Area Team,Q71,Great Ormond Street Hospital for Children,0,2,2,4,0,1,0,0,0,0,0,1,2,0,2,0,0,1,1,1,1,0,0,0,0,0,0,0,Great Ormond Street Hospital for Children
+RN3,FT,"Bath, Gloucestershire, Swindon and Wiltshire Area Team",Q64,Great Western Hospitals,2,0,1,4,3,0,2,1,0,0,2,1,0,1,1,0,0,1,0,0,1,3,0,2,0,0,1,1,Great Western Hospitals
+RJ1,FT,London Area Team,Q71,Guy's & St. Thomas',4,5,1,7,2,1,4,1,2,2,1,0,4,1,1,2,0,0,0,1,1,2,0,0,0,0,1,1,Guy's & St. Thomas'
+RN5,FT,Wessex Area Team,Q70,Hampshire Hospitals4,2,0,1,1,1,0,0,2,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,2,0,Hampshire Hospitals4
+RCD,FT,North Yorkshire and Humber Area Team,Q50,Harrogate & District,0,1,0,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,Harrogate & District
+RR1,FT,Birmingham and the Black Country Area Team,Q54,Heart of England,8,4,4,3,4,6,3,1,1,4,2,2,3,3,0,2,2,0,3,2,3,2,2,1,0,0,0,1,Heart of England
+RQQ,--,East Anglia Area Team,Q56,Hinchingbrooke Health Care,1,1,0,0,2,1,1,1,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Hinchingbrooke Health Care
+RQX,FT,London Area Team,Q71,Homerton University Hospital,3,1,2,2,1,0,0,4,3,2,2,0,0,0,0,0,0,0,0,2,1,1,0,3,3,0,0,1,Homerton University Hospital
+RWA,--,North Yorkshire and Humber Area Team,Q50,Hull & East Yorkshire Hospitals,1,6,2,5,5,1,3,3,3,2,5,3,2,2,2,2,1,3,1,1,2,0,1,0,0,0,0,0,Hull & East Yorkshire Hospitals
+RYJ,--,London Area Team,Q71,Imperial College Healthcare,9,7,7,10,4,3,6,3,7,2,7,3,6,4,2,1,1,1,2,4,4,2,2,1,1,0,3,2,Imperial College Healthcare
+RGQ,--,East Anglia Area Team,Q56,Ipswich Hospital,1,0,1,1,3,0,2,0,0,1,0,0,2,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,Ipswich Hospital
+R1F,--,Wessex Area Team,Q70,Isle of Wight,1,2,0,1,0,0,0,2,2,1,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,Isle of Wight
+RGP,FT,East Anglia Area Team,Q56,James Paget University Hospitals,0,0,4,0,1,1,0,2,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,James Paget University Hospitals
+RNQ,FT,Hertfordshire and The South Midlands Area Team,Q58,Kettering General Hospital,1,1,2,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Kettering General Hospital
+RJZ,FT,London Area Team,Q71,King's College Hospital#,9,4,10,7,5,9,5,2,4,7,3,2,2,3,0,3,1,0,0,3,4,0,3,2,1,1,0,2,King's College Hospital#
+RAX,FT,London Area Team,Q71,Kingston Hospital,0,1,0,1,1,1,1,2,1,2,0,0,1,0,1,0,1,0,0,0,0,1,0,2,0,0,0,0,Kingston Hospital
+RXN,FT,Lancashire Area Team,Q47,Lancashire Teaching Hospitals,2,2,5,1,3,1,1,5,0,2,1,0,0,0,0,1,1,2,1,0,0,1,2,0,0,0,0,0,Lancashire Teaching Hospitals
+RR8,--,West Yorkshire Area Team,Q52,Leeds Teaching Hospitals,8,13,25,18,12,7,8,6,7,3,4,13,5,5,3,2,9,2,0,2,4,3,0,2,4,0,3,0,Leeds Teaching Hospitals
+RJ2,--,London Area Team,Q71,Lewisham & Greenwich#,2,2,1,3,0,2,2,4,2,1,0,0,2,0,0,2,1,0,0,0,0,1,0,0,0,1,0,1,Lewisham & Greenwich#
+RBQ,FT,Merseyside Area Team,Q48,Liverpool Heart & Chest Hospital,0,0,0,0,0,0,1,0,0,1,0,1,0,0,3,1,0,0,0,0,0,0,1,0,0,0,0,0,Liverpool Heart & Chest Hospital
+REP,FT,Merseyside Area Team,Q48,Liverpool Women's,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Liverpool Women's
+R1K,--,London Area Team,Q71,London North West Healthcare5,5,8,4,10,2,4,3,2,3,2,2,3,2,2,1,2,0,4,0,3,0,0,3,0,0,0,1,0,London North West Healthcare5
+RC9,FT,Hertfordshire and The South Midlands Area Team,Q58,Luton & Dunstable University Hospital,0,2,0,3,0,1,1,1,0,1,0,0,1,0,1,0,1,0,0,1,0,2,1,0,1,0,2,0,Luton & Dunstable University Hospital
+RWF,--,Kent and Medway Area Team,Q67,Maidstone & Tunbridge Wells,5,3,1,1,2,3,5,6,1,3,1,0,0,0,2,0,1,0,0,1,0,2,0,1,1,0,0,0,Maidstone & Tunbridge Wells
+RPA,FT,Kent and Medway Area Team,Q67,Medway,5,0,0,1,0,3,2,1,0,0,1,0,2,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,Medway
+RBT,FT,"Cheshire, Warrington and Wirral area Team",Q44,Mid Cheshire Hospitals,3,1,2,6,1,3,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,1,0,1,0,0,Mid Cheshire Hospitals
+RQ8,--,Essex Area Team,Q57,Mid Essex Hospital Services,0,0,2,2,2,0,0,0,1,0,2,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,Mid Essex Hospital Services
+RXF,--,West Yorkshire Area Team,Q52,Mid Yorkshire Hospitals,5,10,7,11,2,3,3,8,3,3,2,4,4,4,3,1,2,2,4,0,4,2,1,1,1,0,0,0,Mid Yorkshire Hospitals
+RD8,FT,Hertfordshire and The South Midlands Area Team,Q58,Milton Keynes Hospital,0,1,3,2,0,0,0,1,1,0,0,3,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,Milton Keynes Hospital
+RP6,FT,London Area Team,Q71,Moorfields Eye Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Moorfields Eye Hospital
+RM1,FT,East Anglia Area Team,Q56,Norfolk & Norwich University Hospitals,0,3,3,3,2,1,2,2,3,2,0,1,4,2,2,1,0,0,0,1,0,0,0,0,0,0,1,0,Norfolk & Norwich University Hospitals
+RVJ,--,"Bristol, North Somerset, Somerset and South Gloucestershire Area Team",Q65,North Bristol,2,5,3,3,7,7,6,4,1,2,0,2,9,1,1,1,1,0,2,2,0,1,0,0,0,1,0,0,North Bristol
+RNL,--,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,North Cumbria University Hospitals,1,1,2,3,2,1,2,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,North Cumbria University Hospitals
+RAP,--,London Area Team,Q71,North Middlesex University Hospital,1,2,3,4,1,3,3,1,1,0,4,0,2,1,0,0,0,0,1,0,1,0,3,0,0,0,0,0,North Middlesex University Hospital
+RVW,FT,"Durham, Darlington and Tees Area Team",Q45,North Tees & Hartlepool,5,0,3,1,2,2,1,0,0,0,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,North Tees & Hartlepool
+RNS,--,Hertfordshire and The South Midlands Area Team,Q58,Northampton General Hospital,4,0,2,7,1,1,1,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,2,Northampton General Hospital
+RBZ,--,"Devon, Cornwall and Isles Of Scilly Area Team",Q66,Northern Devon Healthcare,2,0,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Northern Devon Healthcare
+RJL,FT,North Yorkshire and Humber Area Team,Q50,Northern Lincolnshire & Goole,3,3,1,2,0,2,0,1,3,1,2,2,0,1,2,1,1,1,0,0,1,0,2,1,0,0,0,1,Northern Lincolnshire & Goole
+RTF,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,Northumbria Healthcare,4,3,2,4,0,1,2,3,3,0,0,1,0,1,0,1,0,2,0,0,0,0,1,0,1,0,0,1,Northumbria Healthcare
+RX1,--,Derbyshire and Nottinghamshire Area Team,Q55,Nottingham University Hospitals,6,2,7,2,11,0,6,4,3,0,1,1,2,1,3,2,3,1,1,0,1,1,0,0,1,1,1,1,Nottingham University Hospitals
+RTH,--,Thames Valley Area Team,Q69,Oxford University Hospitals6,6,8,7,2,2,5,4,2,1,1,4,4,2,1,2,0,0,1,2,1,1,1,0,2,2,2,2,1,Oxford University Hospitals6
+RGM,FT,East Anglia Area Team,Q56,Papworth Hospital,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Papworth Hospital
+RW6,--,Greater Manchester Area Team,Q46,Pennine Acute Hospitals,4,8,7,3,4,4,4,8,2,5,1,2,1,2,2,2,1,0,0,2,1,2,1,2,1,1,1,1,Pennine Acute Hospitals
+RGN,FT,East Anglia Area Team,Q56,Peterborough & Stamford Hospitals,3,2,2,2,1,0,0,1,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,Peterborough & Stamford Hospitals
+RK9,--,"Devon, Cornwall and Isles Of Scilly Area Team",Q66,Plymouth Hospitals,5,4,2,4,1,4,2,1,0,3,0,1,3,0,2,1,0,0,0,1,0,0,3,0,0,0,0,0,Plymouth Hospitals
+RD3,FT,Wessex Area Team,Q70,Poole Hospital,1,2,0,0,0,0,0,0,3,1,0,0,1,0,0,0,1,1,0,2,0,0,1,0,1,0,0,0,Poole Hospital
+RHU,--,Wessex Area Team,Q70,Portsmouth Hospitals,1,2,4,3,1,2,2,1,0,1,2,3,1,0,3,1,1,2,1,2,0,0,0,2,0,0,0,4,Portsmouth Hospitals
+RPC,FT,Surrey and Sussex Area Team,Q68,Queen Victoria Hospital,1,0,0,1,1,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,Queen Victoria Hospital
+RHW,FT,Thames Valley Area Team,Q69,Royal Berkshire,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Royal Berkshire
+RT3,FT,London Area Team,Q71,Royal Brompton & Harefield,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Royal Brompton & Harefield
+REF,--,"Devon, Cornwall and Isles Of Scilly Area Team",Q66,Royal Cornwall Hospitals,7,6,3,4,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,Royal Cornwall Hospitals
+RH8,FT,"Devon, Cornwall and Isles Of Scilly Area Team",Q66,Royal Devon & Exeter,3,1,1,2,1,0,0,2,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Royal Devon & Exeter
+RAL,FT,London Area Team,Q71,Royal Free London7,14,3,4,3,1,8,1,5,3,0,0,3,2,4,1,4,0,2,4,3,1,0,4,1,0,1,3,2,Royal Free London7
+RQ6,--,Merseyside Area Team,Q48,Royal Liverpool & Broadgreen University Hospitals,6,4,7,2,4,1,3,3,2,0,3,1,2,0,2,0,0,1,1,1,1,0,5,2,3,3,1,0,Royal Liverpool & Broadgreen University Hospitals
+RAN,--,London Area Team,Q71,Royal National Orthopaedic Hospital,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Royal National Orthopaedic Hospital
+RA2,FT,Surrey and Sussex Area Team,Q68,Royal Surrey County Hospital,3,0,2,0,0,1,0,2,0,1,1,0,0,0,1,0,0,0,0,2,1,1,0,0,0,0,1,2,Royal Surrey County Hospital
+RD1,FT,"Bath, Gloucestershire, Swindon and Wiltshire Area Team",Q64,Royal United Hospitals Bath8,4,2,5,5,3,0,1,2,0,1,1,0,1,0,0,0,1,1,1,2,0,0,0,1,1,1,0,0,Royal United Hospitals Bath8
+RM3,FT,Greater Manchester Area Team,Q46,Salford Royal,2,5,3,2,3,2,0,6,4,2,2,0,3,1,2,0,0,0,3,0,0,0,0,0,0,1,0,0,Salford Royal
+RNZ,FT,"Bath, Gloucestershire, Swindon and Wiltshire Area Team",Q64,Salisbury,1,0,0,1,1,1,1,1,0,0,0,0,2,0,0,2,1,0,2,0,0,1,1,0,0,2,0,0,Salisbury
+RXK,--,Birmingham and the Black Country Area Team,Q54,Sandwell & West Birmingham Hospitals,6,3,0,3,1,2,2,2,1,2,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,Sandwell & West Birmingham Hospitals
+RCU,FT,South Yorkshire and Bassetlaw Area Team,Q51,Sheffield Children's,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sheffield Children's
+RHQ,FT,South Yorkshire and Bassetlaw Area Team,Q51,Sheffield Teaching Hospitals,3,3,2,6,2,3,3,1,4,5,0,0,0,1,1,0,2,0,1,0,1,0,2,1,0,0,1,1,Sheffield Teaching Hospitals
+RK5,FT,Derbyshire and Nottinghamshire Area Team,Q55,Sherwood Forest Hospitals,7,5,4,1,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,Sherwood Forest Hospitals
+RXW,--,Shropshire and Staffordshire Area Team,Q60,Shrewsbury & Telford Hospital,0,3,5,0,0,2,3,1,0,0,2,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Shrewsbury & Telford Hospital
+RA9,FT,"Devon, Cornwall and Isles Of Scilly Area Team",Q66,South Devon Healthcare,1,2,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,South Devon Healthcare
+RTR,FT,"Durham, Darlington and Tees Area Team",Q45,South Tees Hospitals,5,3,3,0,0,1,4,5,2,1,2,1,1,0,0,1,0,0,0,0,0,0,0,2,1,2,0,1,South Tees Hospitals
+RE9,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,South Tyneside,0,0,2,1,0,0,0,2,2,0,0,2,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,South Tyneside
+RJC,FT,"Arden, Herefordshire and Worcestershire Area Team",Q53,South Warwickshire,1,3,1,3,0,0,0,1,0,3,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,South Warwickshire
+RAJ,FT,Essex Area Team,Q57,Southend University Hospital,4,1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0,0,1,1,0,0,Southend University Hospital
+RVY,--,Merseyside Area Team,Q48,Southport & Ormskirk Hospital,0,1,1,2,1,1,2,1,1,0,0,1,3,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,Southport & Ormskirk Hospital
+RBN,--,Merseyside Area Team,Q48,St Helens & Knowsley Hospitals,0,0,1,2,1,1,1,2,1,3,2,2,1,0,1,3,5,2,0,3,2,1,0,1,0,2,0,0,St Helens & Knowsley Hospitals
+RJ7,FT,London Area Team,Q71,St. George's University Hospitals,1,2,2,3,1,5,3,1,4,3,0,2,0,1,0,0,1,0,7,1,2,1,2,2,2,1,1,2,St. George's University Hospitals
+RWJ,FT,Greater Manchester Area Team,Q46,Stockport,2,1,2,4,1,0,0,1,1,3,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,2,0,Stockport
+RTP,--,Surrey and Sussex Area Team,Q68,Surrey & Sussex Healthcare,7,3,0,4,1,2,2,3,1,1,1,1,1,2,2,1,1,0,1,1,0,1,2,0,0,0,0,0,Surrey & Sussex Healthcare
+RMP,FT,Greater Manchester Area Team,Q46,Tameside Hospital,3,3,1,0,3,1,4,6,0,2,0,1,0,1,1,3,0,2,0,4,0,1,1,1,0,1,2,1,Tameside Hospital
+RBA,FT,"Bristol, North Somerset, Somerset and South Gloucestershire Area Team",Q65,Taunton & Somerset,1,0,3,0,0,0,1,2,1,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Taunton & Somerset
+RBV,FT,Greater Manchester Area Team,Q46,The Christie Hospital,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,The Christie Hospital
+REN,FT,"Cheshire, Warrington and Wirral area Team",Q44,The Clatterbridge Cancer Centre,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The Clatterbridge Cancer Centre
+RNA,FT,Birmingham and the Black Country Area Team,Q54,The Dudley Group,4,2,0,1,1,0,0,1,1,0,2,0,2,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,The Dudley Group
+RAS,FT,London Area Team,Q71,The Hillingdon Hospitals,2,1,5,4,0,3,2,0,1,1,1,1,2,1,2,1,0,1,0,0,1,0,0,0,0,1,0,0,The Hillingdon Hospitals
+RTD,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,The Newcastle upon Tyne Hospitals,7,9,6,3,3,3,3,1,2,1,2,2,1,0,3,3,1,0,2,2,3,0,4,0,1,1,1,1,The Newcastle upon Tyne Hospitals
+RQW,--,Essex Area Team,Q57,The Princess Alexandra Hospital,2,1,1,1,0,0,0,2,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,The Princess Alexandra Hospital
+RCX,FT,East Anglia Area Team,Q56,The Queen Elizabeth Hospital King's Lynn,1,1,1,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,The Queen Elizabeth Hospital King's Lynn
+RL1,FT,Shropshire and Staffordshire Area Team,Q60,The Robert Jones & Agnes Hunt Orthopaedic Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The Robert Jones & Agnes Hunt Orthopaedic Hospital
+RFR,FT,South Yorkshire and Bassetlaw Area Team,Q51,The Rotherham,0,1,0,1,0,2,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,The Rotherham
+RDZ,FT,Wessex Area Team,Q70,The Royal Bournemouth & Christchurch Hospitals,4,0,0,2,2,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,The Royal Bournemouth & Christchurch Hospitals
+RPY,FT,London Area Team,Q71,The Royal Marsden,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,The Royal Marsden
+RRJ,FT,Birmingham and the Black Country Area Team,Q54,The Royal Orthopaedic Hospital,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,The Royal Orthopaedic Hospital
+RL4,--,Birmingham and the Black Country Area Team,Q54,The Royal Wolverhampton##,3,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,The Royal Wolverhampton##
+RET,FT,Merseyside Area Team,Q48,The Walton Centre,1,1,1,2,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,The Walton Centre
+RKE,--,London Area Team,Q71,The Whittington Hospital,4,5,1,3,1,0,1,2,1,0,0,1,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,The Whittington Hospital
+RWD,--,Leicestershire and Lincolnshire Area Team,Q59,United Lincolnshire Hospitals,2,6,5,1,7,2,2,5,3,0,5,1,2,1,1,0,1,2,1,2,0,1,2,0,0,0,1,0,United Lincolnshire Hospitals
+RRV,FT,London Area Team,Q71,University College London Hospitals,1,10,4,4,5,5,4,10,3,4,3,3,2,2,0,1,2,0,1,3,2,2,1,1,0,1,0,2,University College London Hospitals
+RHM,FT,Wessex Area Team,Q70,University Hospital Southampton,8,5,5,2,1,0,1,2,1,1,2,1,2,2,1,0,0,0,1,2,2,1,0,1,3,1,0,0,University Hospital Southampton
+RM2,FT,Greater Manchester Area Team,Q46,University Hospital of South Manchester,2,4,5,2,2,3,1,0,2,0,1,2,0,1,0,0,0,0,1,0,1,0,2,1,0,0,0,0,University Hospital of South Manchester
+RRK,FT,Birmingham and the Black Country Area Team,Q54,University Hospitals Birmingham,4,3,5,8,1,2,2,2,2,4,2,3,3,1,0,1,1,2,2,0,0,0,2,1,0,0,1,2,University Hospitals Birmingham
+RA7,FT,"Bristol, North Somerset, Somerset and South Gloucestershire Area Team",Q65,University Hospitals Bristol,4,2,4,7,2,3,4,0,1,2,1,1,1,0,1,2,2,4,3,2,1,0,0,1,2,1,1,1,University Hospitals Bristol
+RKB,--,"Arden, Herefordshire and Worcestershire Area Team",Q53,University Hospitals Coventry & Warwickshire,3,10,2,2,3,2,2,1,1,1,1,1,1,0,0,0,0,1,0,1,0,2,0,0,2,2,1,4,University Hospitals Coventry & Warwickshire
+RWE,--,Leicestershire and Lincolnshire Area Team,Q59,University Hospitals of Leicester,3,7,2,2,2,3,2,6,6,2,1,4,2,3,3,1,0,1,0,1,0,3,0,0,0,1,3,2,University Hospitals of Leicester
+RTX,FT,"Cumbria, Northumberland, Tyne and Wear Area Team",Q49,University Hospitals of Morecambe Bay,8,2,1,1,4,2,1,1,1,1,0,2,2,0,1,1,1,1,0,3,0,0,0,0,1,1,0,0,University Hospitals of Morecambe Bay
+RJE,--,Shropshire and Staffordshire Area Team,Q60,University Hospitals of North Midlands##,8,8,3,12,4,1,3,5,5,12,4,3,1,2,1,4,0,0,0,0,1,1,3,2,2,0,2,1,University Hospitals of North Midlands##
+RBK,--,Birmingham and the Black Country Area Team,Q54,Walsall Healthcare,0,3,4,2,0,1,2,0,0,1,1,5,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,Walsall Healthcare
+RWW,FT,"Cheshire, Warrington and Wirral area Team",Q44,Warrington & Halton Hospitals,5,2,2,0,1,2,0,1,1,3,1,1,2,1,1,1,0,0,0,1,1,1,0,1,1,1,1,0,Warrington & Halton Hospitals
+RWG,--,Hertfordshire and The South Midlands Area Team,Q58,West Hertfordshire Hospitals,2,1,0,2,2,2,1,1,2,1,0,2,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,West Hertfordshire Hospitals
+RFW,--,London Area Team,Q71,West Middlesex University Hospital,4,5,4,4,2,0,3,3,0,2,2,1,2,0,0,0,2,0,1,1,0,1,1,2,0,0,1,1,West Middlesex University Hospital
+RGR,FT,East Anglia Area Team,Q56,West Suffolk,0,0,1,5,1,1,1,3,0,0,0,0,0,1,0,0,1,0,0,1,2,0,0,0,0,0,1,1,West Suffolk
+RYR,FT,Surrey and Sussex Area Team,Q68,Western Sussex Hospitals9,4,5,3,6,3,4,1,3,1,3,3,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,Western Sussex Hospitals9
+RA3,--,"Bristol, North Somerset, Somerset and South Gloucestershire Area Team",Q65,Weston Area Health,2,2,1,1,1,1,1,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Weston Area Health
+RBL,FT,"Cheshire, Warrington and Wirral area Team",Q44,Wirral University Teaching Hospital,6,4,3,1,1,2,3,1,1,4,0,0,0,0,1,0,1,0,1,0,0,2,0,0,1,0,2,0,Wirral University Teaching Hospital
+RWP,--,"Arden, Herefordshire and Worcestershire Area Team",Q53,Worcestershire Acute Hospitals,2,2,2,0,3,0,0,1,3,2,2,1,0,0,1,2,1,0,0,2,1,0,0,0,0,0,0,1,Worcestershire Acute Hospitals
+RRF,FT,Greater Manchester Area Team,Q46,"Wrightington, Wigan & Leigh",3,0,2,2,0,0,1,1,0,0,1,1,1,0,1,1,0,0,2,0,0,0,0,1,1,1,0,0,"Wrightington, Wigan & Leigh"
+RLQ,--,"Arden, Herefordshire and Worcestershire Area Team",Q53,Wye Valley,1,1,0,2,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,Wye Valley
+RA4,FT,"Bristol, North Somerset, Somerset and South Gloucestershire Area Team",Q65,Yeovil District Hospital,2,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,Yeovil District Hospital
+RCB,FT,North Yorkshire and Humber Area Team,Q50,York Teaching Hospital10,7,1,1,2,1,1,3,2,1,1,2,2,1,1,0,5,0,1,0,0,0,1,0,1,0,0,0,2,York Teaching Hospital10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Totals, 459 , 389 , 369 , 389 , 251 , 237 , 237 , 279 , 198 , 186 , 155 , 149 , 148 , 103 , 105 , 117 , 94 , 96 , 92 , 116 , 96 , 82 , 98 , 88 , 67 , 62 , 75 , 83 ,Totals
